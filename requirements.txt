@@ -1,21 +1,5 @@
 
-brotli==1.0.9
-brotli-bin==1.0.9
-brotlipy==0.7.0
-bzip2==1.0.8
-cffi==1.15.0
-cftime==1.5.1.1
-click==8.0.3
-colorama==0.4.4
-convertdate==2.3.2
-cryptography==36.0.0
-curl==7.81.0
-cycler==0.11.0
-cython==0.29.26
-dataclasses==0.8
-decorator==5.1.0==pyhd3eb1b0_0
-ephem==3.7.7.1==py37he774522_0
-fbprophet==0.7.1==py37h1834ac0_0
+fbprophet==0.7.1
 flask==2.0.2==pyhd3eb1b0_0
 flask-cors==3.0.10==pyhd3eb1b0_0
 fonttools==4.28.5==py37hcc03f2d_0
