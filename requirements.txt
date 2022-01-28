@@ -13,6 +13,5 @@ python-dateutil==2.8.2
 requests==2.27.1
 scipy==1.7.3
 setuptools==58.0.4
-sqlite==3.37.0
 statsmodels==0.13.0
 
