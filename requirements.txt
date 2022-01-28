@@ -9,9 +9,7 @@ pickle5==0.0.11
 pip==21.2.4
 pymeeus==0.5.10
 pystan==2.19.1.1
-python==3.7.11
 python-dateutil==2.8.2
-python_abi==3.7
 requests==2.27.1
 scipy==1.7.3
 setuptools==58.0.4
