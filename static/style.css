@@ -1,0 +1,16 @@
+body{
+            height: 100vh;
+            width: 100vw;
+            margin: 0:
+            font-family: "Playball";
+            color: "#fff";
+            display: grid;
+            place-items: center;
+            place-contents: center;
+
+
+            background-repeat:no-repeat;
+            background-attached:fixed;
+            background-size: cover;
+            background-image: url({{url_for('static',filename='airquality_img.jpeg')}})
+            }
