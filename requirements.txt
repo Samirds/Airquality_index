@@ -1,0 +1,74 @@
+arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1633274821480/work
+attrs @ file:///opt/conda/conda-bld/attrs_1642510447205/work
+brotlipy==0.7.0
+certifi==2021.10.8
+cffi @ file:///C:/ci/cffi_1636542104204/work
+cftime @ file:///D:/bld/cftime_1636281020770/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+click==8.0.3
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+convertdate @ file:///home/conda/feedstock_root/build_artifacts/convertdate_1615678826465/work
+cryptography @ file:///C:/ci/cryptography_1639414690059/work
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+Cython @ file:///D:/bld/cython_1639703066864/work
+decorator @ file:///tmp/build/80754af9/decorator_1632776554403/work
+ephem @ file:///C:/ci/ephem_1600355485214/work
+fbprophet @ file:///D:/bld/fbprophet_1599365723319/work
+Flask @ file:///tmp/build/80754af9/flask_1634118196080/work
+Flask-Cors @ file:///tmp/build/80754af9/flask-cors_1609957731919/work
+fonttools @ file:///D:/bld/fonttools_1639926464673/work
+hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1632549476122/work
+holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1641326159059/work
+idna @ file:///tmp/build/80754af9/idna_1637925883363/work
+importlib-metadata @ file:///D:/bld/importlib-metadata_1642514128396/work
+ipython-genutils @ file:///tmp/build/80754af9/ipython_genutils_1606773439826/work
+itsdangerous @ file:///tmp/build/80754af9/itsdangerous_1621432558163/work
+Jinja2 @ file:///tmp/build/80754af9/jinja2_1635780242639/work
+joblib @ file:///tmp/build/80754af9/joblib_1635411271373/work
+jsonschema @ file:///Users/ktietz/demo/mc3/conda-bld/jsonschema_1630511932244/work
+jupyter-core @ file:///C:/ci/jupyter_core_1636537209059/work
+kiwisolver @ file:///D:/bld/kiwisolver_1635836925049/work
+korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean_lunar_calendar_1589354365811/work
+LunarCalendar==0.0.9
+MarkupSafe @ file:///C:/ci/markupsafe_1621528383308/work
+munkres==1.1.4
+nbformat @ file:///tmp/build/80754af9/nbformat_1617383369282/work
+netCDF4 @ file:///D:/bld/netcdf4_1636303129152/work
+numpy @ file:///D:/bld/numpy_1640083233759/work
+olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas @ file:///D:/bld/pandas_1639398349358/work
+patsy==0.5.2
+pickle5 @ file:///C:/ci/pickle5_1621432967362/work
+Pillow @ file:///D:/bld/pillow_1636559064986/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyMeeus @ file:///home/conda/feedstock_root/build_artifacts/pymeeus_1615809745702/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1635333100036/work
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1636757021002/work
+PyQt5==5.12.3
+PyQt5_sip==4.19.18
+PyQtChart==5.12
+PyQtWebEngine==5.12.1
+pyrsistent @ file:///C:/ci/pyrsistent_1636093257833/work
+PySocks @ file:///C:/ci/pysocks_1594394709107/work
+pystan==2.19.1.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+pywin32==302
+requests @ file:///opt/conda/conda-bld/requests_1641824580448/work
+retrying==1.3.3
+scipy @ file:///C:/bld/scipy_1637806996411/work
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+statsmodels==0.13.0
+threadpoolctl @ file:///Users/ktietz/demo/mc3/conda-bld/threadpoolctl_1629802263681/work
+tornado @ file:///D:/bld/tornado_1635819780833/work
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1632160078689/work
+traitlets @ file:///tmp/build/80754af9/traitlets_1636710298902/work
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
+unicodedata2 @ file:///D:/bld/unicodedata2_1640031276438/work
+urllib3==1.26.7
+Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+win-inet-pton @ file:///C:/ci/win_inet_pton_1605306165655/work
+wincertstore==0.2
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1639125986756/work
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1641731510635/work
