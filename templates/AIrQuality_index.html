@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/html">
+
+<style>
+    body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0:
+    font-family: "Playball";
+    color: "#fff";
+    display: grid;
+    place-items: center;
+    place-contents: center;
+
+
+    background-repeat:no-repeat;
+    background-attached:fixed;
+    background-size: cover;
+    background-image: url({{url_for('static',filename='airquality_img.jpeg')}})
+    }
+
+</style>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Air Quality Index</title>
+
+</head>
+
+
+<body>
+    <div>
+        <h2> Air Quality Index</h2>
+        <h3>City : Kolkata</h3>
+        <h3>Year : 2015-2020</h3>
+        <h3>You can find from 01/04/2020 to till : 12/05/2020</h3>
+    </div>
+
+    <br>
+    <br>
+
+    <div class="container">
+        <form action="\predict" method="post">
+
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Enter Date</h2>
+                            <input type="date" name="date" id="date" required="required">
+                            <h3>{{date_given}}</h3>
+                        </div>
+                    </div>
+                </div>
+                <br>
+
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Index</h2>
+                            <h4>{{predict_index}}</h4>
+                        </div>
+                    </div>
+                </div>
+
+                <br>
+                <div class="col-sm-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h2 class="card-title">Category</h2>
+                            <h4>{{predict_category}}</h4>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-sm-2">
+                    <div class="card">
+                        <div class="card-body">
+                            <input type="submit" value="Submit" class="btn btn-secondary">
+                        </div>
+                    </div>
+                </div>
+                <br>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
