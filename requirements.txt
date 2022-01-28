@@ -1,9 +1,9 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-arviz==0.11.4==pyhd8ed1ab_0
-attrs==21.4.0==pyhd3eb1b0_0
-brotli==1.0.9==h8ffe710_6
+arviz==0.11.4=pyhd8ed1ab_0
+attrs==21.4.0=pyhd3eb1b0_0
+brotli==1.0.9=h8ffe710_6
 brotli-bin==1.0.9==h8ffe710_6
 brotlipy==0.7.0==py37h2bbff1b_1003
 bzip2==1.0.8==h8ffe710_4==
