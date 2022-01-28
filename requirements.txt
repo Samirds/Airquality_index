@@ -1,12 +1,12 @@
 
 fbprophet==0.7.1
-flask==2.0.2==pyhd3eb1b0_0
-flask-cors==3.0.10==pyhd3eb1b0_0
-fonttools==4.28.5==py37hcc03f2d_0
-freetype==2.10.4==h546665d_1
-hdf4==4.2.15==h0e5069d_3
-hdf5==1.12.1==nompi_h2a0e4a3_103
-hijri-converter==2.2.2==pyhd8ed1ab_0
+flask==2.0.2
+flask-cors==3.0.10
+fonttools==4.28.5
+freetype==2.10.4
+hdf4==4.2.15
+hdf5==1.12.1
+hijri-converter==2.2.2
 holidays==0.12==pyhd8ed1ab_0
 icu==68.2==h0e60522_0
 idna==3.3==pyhd3eb1b0_0
